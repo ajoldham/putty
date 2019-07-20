@@ -1,6 +1,6 @@
 version: '3'
 services:
-  firefox:
+  putty:
     image: putty
     container_name: putty
     ports:
